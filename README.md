@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rasbeena Hassan
 
-## DevOps & Cloud Engineer
+## DevOps & Cloud Engineer and Trainer
 
 Building scalable cloud infrastructure and CI/CD pipelines.
 
